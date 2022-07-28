@@ -28,6 +28,7 @@ jobs:
             - run:
                   name: Install hadolint
                   command: |
+                      brew install hadolint
                       sudo make install-hadolint
             - run:
                   name: Run Lint
