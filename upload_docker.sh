@@ -5,12 +5,12 @@
 
 # Step 1:
 # Create dockerpath
-dockerpath=minorpatch/udacity-cloud-devops-p4
+dockerpath=uchenna1/udacity-cloud-devops-p4
 
 # Step 2:
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
-docker login -u minorpatch
+docker login -u uchenna1
 docker tag api $dockerpath
 
 # Step 3:
