@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/codewheezy/udacity-cloud-devops-p4/actions/main.yml/workflows/badge.svg)](https://github.com/codewheezy/udacity-cloud-devops-p4)
+<a data-cy="workflow-status-link" href="/pipelines/github/codewheezy/udacity-cloud-devops-p4/10/workflows/936f1a12-2ee2-4479-ab2d-69a506608401" class="css-l59eie"><div title="Success" type="SUCCESS" class="css-t4mprq"><div color="#FFFFFF" class="css-1yz9tv3"><svg role="img" focusable="false" viewBox="0 0 24 24" aria-label="Status Passed" fill="currentColor" xmlns="http://www.w3.org/2000/svg" class="css-bleycz"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM10 14.5858L7.70711 12.2929C7.31658 11.9024 6.68342 11.9024 6.29289 12.2929C5.90237 12.6834 5.90237 13.3166 6.29289 13.7071L9.29289 16.7071C9.68342 17.0976 10.3166 17.0976 10.7071 16.7071L17.7071 9.70711C18.0976 9.31658 18.0976 8.68342 17.7071 8.29289C17.3166 7.90237 16.6834 7.90237 16.2929 8.29289L10 14.5858Z"></path></svg></div>Success</div></a>
 
 ## Project Overview
 
