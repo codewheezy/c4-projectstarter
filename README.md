@@ -1,4 +1,4 @@
-[![uchennaibe](https://app.circleci.com/pipelines/github/codewheezy/udacity-cloud-devops-p4/8/workflows/bde41538-c433-43e1-b554-c8cc39255e13.svg?style=svg)](https://app.circleci.com/pipelines/github/codewheezy/udacity-cloud-devops-p4/8/workflows/bde41538-c433-43e1-b554-c8cc39255e13)
+[![Build Status](https://github.com/codewheezy/udacity-cloud-devops-p4/actions/main.yml/workflows/badge.svg)](https://github.com/codewheezy/udacity-cloud-devops-p4)
 
 ## Project Overview
 
