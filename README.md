@@ -1,4 +1,4 @@
-[![danilobrinu](https://circleci.com/gh/danilobrinu/udacity-cloud-devops-engineer-project-4.svg?style=svg)](https://circleci.com/gh/danilobrinu/udacity-cloud-devops-engineer-project-4)
+[![danilobrinu](https://circleci.com/gh/codewheezy/udacity-cloud-devops-engineer-project-4.svg?style=svg)](https://circleci.com/gh/codewheezy/udacity-cloud-devops-p4?branch=master)
 
 ## Project Overview
 
